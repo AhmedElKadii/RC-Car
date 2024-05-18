@@ -14,7 +14,7 @@ A simple car I made with a backup sensor for a project
   ![IMG_0650](https://github.com/AhmedElKadii/RC-Car/assets/166130877/9c9a4d1b-62be-4e27-8735-d856c610a2ad)
   ![IMG_0668](https://github.com/AhmedElKadii/RC-Car/assets/166130877/707e3045-5f46-478b-8b2f-52e486b96844)
   ## Wrap Around
-  https://github.com/AhmedElKadii/RC-Car/assets/166130877/107d8328-1964-463d-84ca-f3cae8a35c49
+  
 
 # Tinker Cad
   ## Full Circuit
